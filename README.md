@@ -1,4 +1,4 @@
-# Books Scraping & SQL Analysis
+# Books Scraping & SQL queries
 
 ## Overview
 
